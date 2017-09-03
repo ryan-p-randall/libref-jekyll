@@ -1,0 +1,28 @@
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ILA SJC
+tagline:          Idaho Library Association's Social Justice Committee
+description:      "Links and resources to help improve Idaho communities"
+locale:           en_US
+url:              https://ilasjc.github.io/
+baseurl:          https://ilasjc.github.io/
+
+author:
+  name:           "Idaho Library Association's Social Justice Committee"
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repository:           "ilasjc.github.io/"
